@@ -5,7 +5,8 @@
 # Performed Model Diagnostics
 # Tested model with new Data
 
-setwd('C:/Users/HARI/Desktop/PROJECTS/R projects')
+#Set the Working Directory
+setwd('')
 
 # import the dataset 
 Walmart_sales <- read.csv('Walmart.csv')
